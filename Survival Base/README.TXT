@@ -1,12 +1,20 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# 🌴 Survival Base
+Um jogo de sobrevivência no qual você precisa coletar recursos para construir uma jangada e escapar da ilha.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+## 🎮 Como Jogar
+- Use as teclas "wasd" para se mover nos cenários;
+- Colete madeira, comida e água;
+- Evite os inimigos que rondam a ilha;
+- Construa a jangada para vencer o jogo!
+
+## ⚡ Recursos
+- Sistema de coleta de itens
+- Gerenciamento de sobrevivência
+- Encontros aleatórios com inimigos
+- Objetivo final: construir a jangada
+
+## 🖥️ Plataforma
+- Java (Greenfoot)
+
+## 🤝 Contribuição
+Sugestões são bem-vindas!
