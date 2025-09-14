@@ -18,3 +18,4 @@ Um jogo de sobrevivência no qual você precisa coletar recursos para construir 
 
 ## 🤝 Contribuição
 Sugestões são bem-vindas!
+Colaboradores: Mikael, Lucas, Murillo e Hickelme.
