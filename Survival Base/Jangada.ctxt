@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jangada
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ verifyItens()
+comment3.params=
+comment3.target=void\ verifyWin()
+comment4.params=
+comment4.target=void\ runAway()
+comment5.params=
+comment5.target=void\ build()
+comment6.params=
+comment6.target=void\ setBroken()
+numComments=7

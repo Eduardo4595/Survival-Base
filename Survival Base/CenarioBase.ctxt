@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CenarioBase
+comment1.params=
+comment1.target=CenarioBase()
+comment2.params=pY
+comment2.target=CenarioBase(int)
+comment3.params=pY\ pX
+comment3.target=CenarioBase(int,\ int)
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

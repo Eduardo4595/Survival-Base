@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CenarioBaixo
+comment1.params=
+comment1.target=CenarioBaixo()
+comment2.params=posX
+comment2.target=CenarioBaixo(int)
+comment3.params=
+comment3.target=void\ apperItens()
+comment4.params=
+comment4.target=void\ apperEnnemies()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CenarioCima
+comment1.params=
+comment1.target=CenarioCima()
+comment2.params=posX
+comment2.target=CenarioCima(int)
+comment3.params=
+comment3.target=void\ spawnFish()
+comment4.params=
+comment4.target=void\ exchangeRaft()
+comment5.params=
+comment5.target=void\ animation()
+numComments=6
