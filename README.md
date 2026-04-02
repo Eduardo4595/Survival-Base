@@ -1,21 +1,26 @@
 # 🌴 Survival Base
-Um jogo de sobrevivência no qual você precisa coletar recursos para construir uma jangada e escapar da ilha.
 
-## 🎮 Como Jogar
-- Use as teclas "wasd" para se mover nos cenários;
-- Colete madeira, comida e água;
-- Evite os inimigos que rondam a ilha;
-- Construa a jangada para vencer o jogo!
+A survival game where you must gather resources to build a raft and escape the island.
 
-## ⚡ Recursos
-- Sistema de coleta de itens
-- Gerenciamento de sobrevivência
-- Encontros aleatórios com inimigos
-- Objetivo final: construir a jangada
+## 🎮 How to Play
 
-## 🖥️ Plataforma
-- Java (Greenfoot)
+* Use the **WASD** keys to move around the environment
+* Collect wood, food, and water
+* Avoid enemies roaming the island
+* Build the raft to win the game!
 
-## 🤝 Contribuição
-Sugestões são bem-vindas!
-Colaboradores: Mikael, Lucas, Murillo e Hickelme.
+## ⚡ Features
+
+* Item collection system
+* Survival management mechanics
+* Random enemy encounters
+* Final objective: build the raft
+
+## 🖥️ Platform
+
+* Java (Greenfoot)
+
+## 🤝 Contribution
+
+Suggestions are welcome!
+Contributors: Mikael, Lucas, Murillo, and Hickelme.
