@@ -16,9 +16,9 @@ A survival game where you must gather resources to build a raft and escape the i
 * Random enemy encounters
 * Final objective: build the raft
 
-## 🖥️ Platform
+## 🖥️ Platform and Language
 
-* Java (Greenfoot)
+* Greenfoot (In Java)
 
 ## 🤝 Contribution
 
